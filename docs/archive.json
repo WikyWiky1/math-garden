@@ -1,5 +1,18 @@
 [
  {
+  "run": 2,
+  "generation": 14000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Ultramarine",
+  "title": "Restless Alluvium",
+  "file": "plate-00002.jpg",
+  "thumb": "plate-00002-t.jpg",
+  "date_long": "August 17, 2026",
+  "date_stamp": "2026-08-17 03:02 UTC"
+ },
+ {
   "run": 1,
   "generation": 7000,
   "regime": "Labyrinth",
