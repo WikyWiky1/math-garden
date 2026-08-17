@@ -451,17 +451,23 @@ def main():
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
 
     # --- load or create state ---
+    A = B = None
+    generation = run = 0
     if os.path.exists(STATE_FILE):
-        d = np.load(STATE_FILE)
-        A = d["A"].astype(np.float32)
-        B = d["B"].astype(np.float32)
-        generation = int(d["generation"])
-        run = int(d["run"])
-        if A.shape != (SIZE, SIZE):        # grid size changed; start over
-            A = B = None
-    else:
-        A = B = None
-        generation = run = 0
+        try:
+            d = np.load(STATE_FILE)
+            keys = set(d.files)
+            if {"A", "B"} <= keys:
+                a = d["A"].astype(np.float32)
+                b = d["B"].astype(np.float32)
+                # Reject legacy grids and any state that diverged
+                if (a.shape == (SIZE, SIZE)
+                        and np.isfinite(a).all() and np.isfinite(b).all()):
+                    A, B = a, b
+                    generation = int(d["generation"]) if "generation" in keys else 0
+                    run = int(d["run"]) if "run" in keys else 0
+        except (OSError, ValueError, KeyError):
+            pass    # unreadable state; start fresh
 
     run += 1
     rng = np.random.default_rng(run * 7919 + 13)
