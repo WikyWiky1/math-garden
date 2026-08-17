@@ -1,5 +1,18 @@
 [
  {
+  "run": 4,
+  "generation": 28000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Bone & Ink",
+  "title": "Buried Reliquary",
+  "file": "plate-00004.jpg",
+  "thumb": "plate-00004-t.jpg",
+  "date_long": "August 17, 2026",
+  "date_stamp": "2026-08-17 03:04 UTC"
+ },
+ {
   "run": 3,
   "generation": 21000,
   "regime": "Labyrinth",
