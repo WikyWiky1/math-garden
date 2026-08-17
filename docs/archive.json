@@ -1,5 +1,18 @@
 [
  {
+  "run": 5,
+  "generation": 35000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Ultraviolet",
+  "title": "Folded Threshold",
+  "file": "plate-00005.jpg",
+  "thumb": "plate-00005-t.jpg",
+  "date_long": "August 17, 2026",
+  "date_stamp": "2026-08-17 03:06 UTC"
+ },
+ {
   "run": 4,
   "generation": 28000,
   "regime": "Perforation",
