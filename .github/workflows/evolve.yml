@@ -2,22 +2,27 @@ name: Evolve Pattern
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
-  workflow_dispatch:        # manual button
+    - cron: '17 11 * * *'   # 06:17 CT / 05:17 CDT, once a day
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: evolve-pattern
+  cancel-in-progress: false
+
 jobs:
   evolve:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: pip
 
       - name: Install dependencies
         run: pip install numpy pillow
@@ -27,8 +32,12 @@ jobs:
 
       - name: Commit & push
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Evolve pattern $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Evolve pattern $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
