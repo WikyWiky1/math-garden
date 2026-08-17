@@ -1,5 +1,18 @@
 [
  {
+  "run": 6,
+  "generation": 42000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Glacier",
+  "title": "Ancient Alluvium",
+  "file": "plate-00006.jpg",
+  "thumb": "plate-00006-t.jpg",
+  "date_long": "August 17, 2026",
+  "date_stamp": "2026-08-17 11:38 UTC"
+ },
+ {
   "run": 5,
   "generation": 35000,
   "regime": "Perforation",
