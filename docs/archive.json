@@ -1,5 +1,18 @@
 [
  {
+  "run": 3,
+  "generation": 21000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Aurum",
+  "title": "Quiet Garden",
+  "file": "plate-00003.jpg",
+  "thumb": "plate-00003-t.jpg",
+  "date_long": "August 17, 2026",
+  "date_stamp": "2026-08-17 03:03 UTC"
+ },
+ {
   "run": 2,
   "generation": 14000,
   "regime": "Labyrinth",
