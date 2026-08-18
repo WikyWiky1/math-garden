@@ -1,5 +1,18 @@
 [
  {
+  "run": 7,
+  "generation": 49000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Ember",
+  "title": "Iron Canticle",
+  "file": "plate-00007.jpg",
+  "thumb": "plate-00007-t.jpg",
+  "date_long": "August 18, 2026",
+  "date_stamp": "2026-08-18 11:38 UTC"
+ },
+ {
   "run": 6,
   "generation": 42000,
   "regime": "Perforation",
