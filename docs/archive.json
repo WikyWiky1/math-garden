@@ -1,5 +1,18 @@
 [
  {
+  "run": 8,
+  "generation": 56000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Moss",
+  "title": "Sacred Lacuna",
+  "file": "plate-00008.jpg",
+  "thumb": "plate-00008-t.jpg",
+  "date_long": "August 19, 2026",
+  "date_stamp": "2026-08-19 11:37 UTC"
+ },
+ {
   "run": 7,
   "generation": 49000,
   "regime": "Perforation",
