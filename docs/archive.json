@@ -1,5 +1,18 @@
 [
  {
+  "run": 9,
+  "generation": 63000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Nocturne",
+  "title": "Slow Choir",
+  "file": "plate-00009.jpg",
+  "thumb": "plate-00009-t.jpg",
+  "date_long": "August 20, 2026",
+  "date_stamp": "2026-08-20 11:40 UTC"
+ },
+ {
   "run": 8,
   "generation": 56000,
   "regime": "Turbulence",
