@@ -1,5 +1,18 @@
 [
  {
+  "run": 12,
+  "generation": 84000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Ultramarine",
+  "title": "Folded Ember",
+  "file": "plate-00012.jpg",
+  "thumb": "plate-00012-t.jpg",
+  "date_long": "August 23, 2026",
+  "date_stamp": "2026-08-23 11:33 UTC"
+ },
+ {
   "run": 11,
   "generation": 77000,
   "regime": "Turbulence",
