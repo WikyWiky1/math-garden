@@ -1,5 +1,18 @@
 [
  {
+  "run": 13,
+  "generation": 91000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Aurum",
+  "title": "Buried Choir",
+  "file": "plate-00013.jpg",
+  "thumb": "plate-00013-t.jpg",
+  "date_long": "August 24, 2026",
+  "date_stamp": "2026-08-24 11:42 UTC"
+ },
+ {
   "run": 12,
   "generation": 84000,
   "regime": "Fingerprint",
