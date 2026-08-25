@@ -1,5 +1,18 @@
 [
  {
+  "run": 14,
+  "generation": 98000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Bone & Ink",
+  "title": "Sacred Estuary",
+  "file": "plate-00014.jpg",
+  "thumb": "plate-00014-t.jpg",
+  "date_long": "August 25, 2026",
+  "date_stamp": "2026-08-25 11:41 UTC"
+ },
+ {
   "run": 13,
   "generation": 91000,
   "regime": "Fingerprint",
