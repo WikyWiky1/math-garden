@@ -1,5 +1,18 @@
 [
  {
+  "run": 15,
+  "generation": 105000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Ultraviolet",
+  "title": "Iron Meridian",
+  "file": "plate-00015.jpg",
+  "thumb": "plate-00015-t.jpg",
+  "date_long": "August 26, 2026",
+  "date_stamp": "2026-08-26 11:43 UTC"
+ },
+ {
   "run": 14,
   "generation": 98000,
   "regime": "Fingerprint",
