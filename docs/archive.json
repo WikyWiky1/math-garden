@@ -1,5 +1,18 @@
 [
  {
+  "run": 16,
+  "generation": 112000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Glacier",
+  "title": "Slow Vesper",
+  "file": "plate-00016.jpg",
+  "thumb": "plate-00016-t.jpg",
+  "date_long": "August 27, 2026",
+  "date_stamp": "2026-08-27 21:01 UTC"
+ },
+ {
   "run": 15,
   "generation": 105000,
   "regime": "Fingerprint",
