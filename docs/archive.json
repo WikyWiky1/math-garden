@@ -1,5 +1,18 @@
 [
  {
+  "run": 17,
+  "generation": 119000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Ember",
+  "title": "Burning Alluvium",
+  "file": "plate-00017.jpg",
+  "thumb": "plate-00017-t.jpg",
+  "date_long": "August 28, 2026",
+  "date_stamp": "2026-08-28 21:21 UTC"
+ },
+ {
   "run": 16,
   "generation": 112000,
   "regime": "Ripple",
