@@ -1,5 +1,18 @@
 [
  {
+  "run": 18,
+  "generation": 126000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Moss",
+  "title": "Ancient Reliquary",
+  "file": "plate-00018.jpg",
+  "thumb": "plate-00018-t.jpg",
+  "date_long": "August 29, 2026",
+  "date_stamp": "2026-08-29 15:37 UTC"
+ },
+ {
   "run": 17,
   "generation": 119000,
   "regime": "Ripple",
