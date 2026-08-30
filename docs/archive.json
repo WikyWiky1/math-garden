@@ -1,5 +1,18 @@
 [
  {
+  "run": 19,
+  "generation": 133000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Nocturne",
+  "title": "Sacred Interval",
+  "file": "plate-00019.jpg",
+  "thumb": "plate-00019-t.jpg",
+  "date_long": "August 30, 2026",
+  "date_stamp": "2026-08-30 15:19 UTC"
+ },
+ {
   "run": 18,
   "generation": 126000,
   "regime": "Ripple",
