@@ -1,5 +1,18 @@
 [
  {
+  "run": 20,
+  "generation": 140000,
+  "regime": "Migration",
+  "feed": 0.014,
+  "kill": 0.045,
+  "palette": "Verdigris",
+  "title": "Distant Choir",
+  "file": "plate-00020.jpg",
+  "thumb": "plate-00020-t.jpg",
+  "date_long": "August 31, 2026",
+  "date_stamp": "2026-08-31 17:59 UTC"
+ },
+ {
   "run": 19,
   "generation": 133000,
   "regime": "Ripple",
