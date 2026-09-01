@@ -1,5 +1,18 @@
 [
  {
+  "run": 21,
+  "generation": 147000,
+  "regime": "Migration",
+  "feed": 0.014,
+  "kill": 0.045,
+  "palette": "Oxblood",
+  "title": "Hollow Alluvium",
+  "file": "plate-00021.jpg",
+  "thumb": "plate-00021-t.jpg",
+  "date_long": "September 1, 2026",
+  "date_stamp": "2026-09-01 15:27 UTC"
+ },
+ {
   "run": 20,
   "generation": 140000,
   "regime": "Migration",
