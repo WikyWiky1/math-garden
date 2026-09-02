@@ -1,5 +1,18 @@
 [
  {
+  "run": 22,
+  "generation": 154000,
+  "regime": "Migration",
+  "feed": 0.014,
+  "kill": 0.045,
+  "palette": "Ultramarine",
+  "title": "Waking Palimpsest",
+  "file": "plate-00022.jpg",
+  "thumb": "plate-00022-t.jpg",
+  "date_long": "September 2, 2026",
+  "date_stamp": "2026-09-02 15:05 UTC"
+ },
+ {
   "run": 21,
   "generation": 147000,
   "regime": "Migration",
