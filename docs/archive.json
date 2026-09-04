@@ -1,5 +1,18 @@
 [
  {
+  "run": 24,
+  "generation": 168000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Bone & Ink",
+  "title": "Quiet Aquifer",
+  "file": "plate-00024.jpg",
+  "thumb": "plate-00024-t.jpg",
+  "date_long": "September 4, 2026",
+  "date_stamp": "2026-09-04 14:56 UTC"
+ },
+ {
   "run": 23,
   "generation": 161000,
   "regime": "Migration",
