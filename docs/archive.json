@@ -1,5 +1,18 @@
 [
  {
+  "run": 25,
+  "generation": 175000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Ultraviolet",
+  "title": "Ancient Choir",
+  "file": "plate-00025.jpg",
+  "thumb": "plate-00025-t.jpg",
+  "date_long": "September 5, 2026",
+  "date_stamp": "2026-09-05 13:51 UTC"
+ },
+ {
   "run": 24,
   "generation": 168000,
   "regime": "Vesicle",
