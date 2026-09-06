@@ -1,5 +1,18 @@
 [
  {
+  "run": 26,
+  "generation": 182000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Glacier",
+  "title": "Restless Choir",
+  "file": "plate-00026.jpg",
+  "thumb": "plate-00026-t.jpg",
+  "date_long": "September 6, 2026",
+  "date_stamp": "2026-09-06 14:08 UTC"
+ },
+ {
   "run": 25,
   "generation": 175000,
   "regime": "Vesicle",
