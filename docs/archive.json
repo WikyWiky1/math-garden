@@ -1,5 +1,18 @@
 [
  {
+  "run": 27,
+  "generation": 189000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Ember",
+  "title": "Hollow Foundry",
+  "file": "plate-00027.jpg",
+  "thumb": "plate-00027-t.jpg",
+  "date_long": "September 7, 2026",
+  "date_stamp": "2026-09-07 16:26 UTC"
+ },
+ {
   "run": 26,
   "generation": 182000,
   "regime": "Vesicle",
