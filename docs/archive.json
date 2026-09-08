@@ -1,5 +1,18 @@
 [
  {
+  "run": 28,
+  "generation": 196000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Moss",
+  "title": "Glass Cascade",
+  "file": "plate-00028.jpg",
+  "thumb": "plate-00028-t.jpg",
+  "date_long": "September 8, 2026",
+  "date_stamp": "2026-09-08 15:05 UTC"
+ },
+ {
   "run": 27,
   "generation": 189000,
   "regime": "Vesicle",
