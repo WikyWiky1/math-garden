@@ -1,5 +1,18 @@
 [
  {
+  "run": 30,
+  "generation": 210000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Verdigris",
+  "title": "Waking Meridian",
+  "file": "plate-00030.jpg",
+  "thumb": "plate-00030-t.jpg",
+  "date_long": "September 10, 2026",
+  "date_stamp": "2026-09-10 14:58 UTC"
+ },
+ {
   "run": 29,
   "generation": 203000,
   "regime": "Pulse",
