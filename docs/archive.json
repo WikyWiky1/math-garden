@@ -1,5 +1,18 @@
 [
  {
+  "run": 33,
+  "generation": 231000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Aurum",
+  "title": "Folded Canticle",
+  "file": "plate-00033.jpg",
+  "thumb": "plate-00033-t.jpg",
+  "date_long": "September 13, 2026",
+  "date_stamp": "2026-09-13 14:55 UTC"
+ },
+ {
   "run": 32,
   "generation": 224000,
   "regime": "Labyrinth",
