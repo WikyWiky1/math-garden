@@ -1,5 +1,18 @@
 [
  {
+  "run": 34,
+  "generation": 238000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Bone & Ink",
+  "title": "Quiet Vesper",
+  "file": "plate-00034.jpg",
+  "thumb": "plate-00034-t.jpg",
+  "date_long": "September 14, 2026",
+  "date_stamp": "2026-09-14 16:57 UTC"
+ },
+ {
   "run": 33,
   "generation": 231000,
   "regime": "Labyrinth",
