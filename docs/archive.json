@@ -1,5 +1,18 @@
 [
  {
+  "run": 35,
+  "generation": 245000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Ultraviolet",
+  "title": "Silent Palimpsest",
+  "file": "plate-00035.jpg",
+  "thumb": "plate-00035-t.jpg",
+  "date_long": "September 15, 2026",
+  "date_stamp": "2026-09-15 15:33 UTC"
+ },
+ {
   "run": 34,
   "generation": 238000,
   "regime": "Labyrinth",
