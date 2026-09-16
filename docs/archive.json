@@ -1,5 +1,18 @@
 [
  {
+  "run": 36,
+  "generation": 252000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Glacier",
+  "title": "Distant Bloom",
+  "file": "plate-00036.jpg",
+  "thumb": "plate-00036-t.jpg",
+  "date_long": "September 16, 2026",
+  "date_stamp": "2026-09-16 15:25 UTC"
+ },
+ {
   "run": 35,
   "generation": 245000,
   "regime": "Labyrinth",
