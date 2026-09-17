@@ -1,5 +1,18 @@
 [
  {
+  "run": 37,
+  "generation": 259000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Ember",
+  "title": "Patient Solstice",
+  "file": "plate-00037.jpg",
+  "thumb": "plate-00037-t.jpg",
+  "date_long": "September 17, 2026",
+  "date_stamp": "2026-09-17 15:32 UTC"
+ },
+ {
   "run": 36,
   "generation": 252000,
   "regime": "Perforation",
