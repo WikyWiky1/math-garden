@@ -1,5 +1,18 @@
 [
  {
+  "run": 38,
+  "generation": 266000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Moss",
+  "title": "Waking Meridian",
+  "file": "plate-00038.jpg",
+  "thumb": "plate-00038-t.jpg",
+  "date_long": "September 18, 2026",
+  "date_stamp": "2026-09-18 14:58 UTC"
+ },
+ {
   "run": 37,
   "generation": 259000,
   "regime": "Perforation",
