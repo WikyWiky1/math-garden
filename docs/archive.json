@@ -1,5 +1,18 @@
 [
  {
+  "run": 39,
+  "generation": 273000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Nocturne",
+  "title": "Waking Solstice",
+  "file": "plate-00039.jpg",
+  "thumb": "plate-00039-t.jpg",
+  "date_long": "September 19, 2026",
+  "date_stamp": "2026-09-19 14:23 UTC"
+ },
+ {
   "run": 38,
   "generation": 266000,
   "regime": "Perforation",
