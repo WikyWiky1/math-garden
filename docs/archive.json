@@ -1,5 +1,18 @@
 [
  {
+  "run": 40,
+  "generation": 280000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Verdigris",
+  "title": "Slow Estuary",
+  "file": "plate-00040.jpg",
+  "thumb": "plate-00040-t.jpg",
+  "date_long": "September 20, 2026",
+  "date_stamp": "2026-09-20 14:41 UTC"
+ },
+ {
   "run": 39,
   "generation": 273000,
   "regime": "Perforation",
