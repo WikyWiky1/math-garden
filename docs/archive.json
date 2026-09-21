@@ -1,5 +1,18 @@
 [
  {
+  "run": 41,
+  "generation": 287000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Oxblood",
+  "title": "Sacred Palimpsest",
+  "file": "plate-00041.jpg",
+  "thumb": "plate-00041-t.jpg",
+  "date_long": "September 21, 2026",
+  "date_stamp": "2026-09-21 17:01 UTC"
+ },
+ {
   "run": 40,
   "generation": 280000,
   "regime": "Turbulence",
