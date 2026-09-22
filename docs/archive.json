@@ -1,5 +1,18 @@
 [
  {
+  "run": 42,
+  "generation": 294000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Ultramarine",
+  "title": "Patient Interval",
+  "file": "plate-00042.jpg",
+  "thumb": "plate-00042-t.jpg",
+  "date_long": "September 22, 2026",
+  "date_stamp": "2026-09-22 15:30 UTC"
+ },
+ {
   "run": 41,
   "generation": 287000,
   "regime": "Turbulence",
