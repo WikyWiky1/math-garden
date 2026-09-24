@@ -1,5 +1,18 @@
 [
  {
+  "run": 44,
+  "generation": 308000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Bone & Ink",
+  "title": "Hollow Interval",
+  "file": "plate-00044.jpg",
+  "thumb": "plate-00044-t.jpg",
+  "date_long": "September 24, 2026",
+  "date_stamp": "2026-09-24 15:48 UTC"
+ },
+ {
   "run": 43,
   "generation": 301000,
   "regime": "Turbulence",
