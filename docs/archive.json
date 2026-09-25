@@ -1,5 +1,18 @@
 [
  {
+  "run": 45,
+  "generation": 315000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Ultraviolet",
+  "title": "Burning Ember",
+  "file": "plate-00045.jpg",
+  "thumb": "plate-00045-t.jpg",
+  "date_long": "September 25, 2026",
+  "date_stamp": "2026-09-25 15:48 UTC"
+ },
+ {
   "run": 44,
   "generation": 308000,
   "regime": "Fingerprint",
