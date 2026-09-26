@@ -1,5 +1,18 @@
 [
  {
+  "run": 46,
+  "generation": 322000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Glacier",
+  "title": "Waking Estuary",
+  "file": "plate-00046.jpg",
+  "thumb": "plate-00046-t.jpg",
+  "date_long": "September 26, 2026",
+  "date_stamp": "2026-09-26 14:58 UTC"
+ },
+ {
   "run": 45,
   "generation": 315000,
   "regime": "Fingerprint",
