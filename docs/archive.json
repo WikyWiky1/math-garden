@@ -1,5 +1,18 @@
 [
  {
+  "run": 47,
+  "generation": 329000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Ember",
+  "title": "Buried Solstice",
+  "file": "plate-00047.jpg",
+  "thumb": "plate-00047-t.jpg",
+  "date_long": "September 27, 2026",
+  "date_stamp": "2026-09-27 15:38 UTC"
+ },
+ {
   "run": 46,
   "generation": 322000,
   "regime": "Fingerprint",
