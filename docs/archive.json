@@ -1,5 +1,18 @@
 [
  {
+  "run": 48,
+  "generation": 336000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Moss",
+  "title": "Distant Palimpsest",
+  "file": "plate-00048.jpg",
+  "thumb": "plate-00048-t.jpg",
+  "date_long": "September 28, 2026",
+  "date_stamp": "2026-09-28 18:35 UTC"
+ },
+ {
   "run": 47,
   "generation": 329000,
   "regime": "Fingerprint",
