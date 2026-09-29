@@ -1,5 +1,18 @@
 [
  {
+  "run": 49,
+  "generation": 343000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Nocturne",
+  "title": "Hollow Reliquary",
+  "file": "plate-00049.jpg",
+  "thumb": "plate-00049-t.jpg",
+  "date_long": "September 29, 2026",
+  "date_stamp": "2026-09-29 16:53 UTC"
+ },
+ {
   "run": 48,
   "generation": 336000,
   "regime": "Ripple",
