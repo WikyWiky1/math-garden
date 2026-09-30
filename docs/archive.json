@@ -1,5 +1,18 @@
 [
  {
+  "run": 50,
+  "generation": 350000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Verdigris",
+  "title": "Slow Foundry",
+  "file": "plate-00050.jpg",
+  "thumb": "plate-00050-t.jpg",
+  "date_long": "September 30, 2026",
+  "date_stamp": "2026-09-30 16:48 UTC"
+ },
+ {
   "run": 49,
   "generation": 343000,
   "regime": "Ripple",
