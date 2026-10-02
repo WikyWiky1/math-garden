@@ -1,5 +1,18 @@
 [
  {
+  "run": 52,
+  "generation": 364000,
+  "regime": "Migration",
+  "feed": 0.014,
+  "kill": 0.045,
+  "palette": "Ultramarine",
+  "title": "Quiet Meridian",
+  "file": "plate-00052.jpg",
+  "thumb": "plate-00052-t.jpg",
+  "date_long": "October 2, 2026",
+  "date_stamp": "2026-10-02 16:37 UTC"
+ },
+ {
   "run": 51,
   "generation": 357000,
   "regime": "Ripple",
