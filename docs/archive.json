@@ -1,5 +1,18 @@
 [
  {
+  "run": 56,
+  "generation": 392000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Glacier",
+  "title": "Late Foundry",
+  "file": "plate-00056.jpg",
+  "thumb": "plate-00056-t.jpg",
+  "date_long": "October 7, 2026",
+  "date_stamp": "2026-10-07 17:48 UTC"
+ },
+ {
   "run": 55,
   "generation": 385000,
   "regime": "Migration",
