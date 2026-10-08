@@ -1,5 +1,18 @@
 [
  {
+  "run": 57,
+  "generation": 399000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Ember",
+  "title": "Buried Garden",
+  "file": "plate-00057.jpg",
+  "thumb": "plate-00057-t.jpg",
+  "date_long": "October 8, 2026",
+  "date_stamp": "2026-10-08 17:52 UTC"
+ },
+ {
   "run": 56,
   "generation": 392000,
   "regime": "Vesicle",
