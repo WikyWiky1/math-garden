@@ -1,5 +1,18 @@
 [
  {
+  "run": 58,
+  "generation": 406000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Moss",
+  "title": "Unfinished Alluvium",
+  "file": "plate-00058.jpg",
+  "thumb": "plate-00058-t.jpg",
+  "date_long": "October 9, 2026",
+  "date_stamp": "2026-10-09 17:26 UTC"
+ },
+ {
   "run": 57,
   "generation": 399000,
   "regime": "Vesicle",
