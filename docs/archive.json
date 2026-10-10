@@ -1,5 +1,18 @@
 [
  {
+  "run": 59,
+  "generation": 413000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Nocturne",
+  "title": "Late Cynosure",
+  "file": "plate-00059.jpg",
+  "thumb": "plate-00059-t.jpg",
+  "date_long": "October 10, 2026",
+  "date_stamp": "2026-10-10 16:13 UTC"
+ },
+ {
   "run": 58,
   "generation": 406000,
   "regime": "Vesicle",
