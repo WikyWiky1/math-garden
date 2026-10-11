@@ -1,5 +1,18 @@
 [
  {
+  "run": 60,
+  "generation": 420000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Verdigris",
+  "title": "Unfinished Solstice",
+  "file": "plate-00060.jpg",
+  "thumb": "plate-00060-t.jpg",
+  "date_long": "October 11, 2026",
+  "date_stamp": "2026-10-11 16:38 UTC"
+ },
+ {
   "run": 59,
   "generation": 413000,
   "regime": "Vesicle",
