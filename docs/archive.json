@@ -1,5 +1,18 @@
 [
  {
+  "run": 61,
+  "generation": 427000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Oxblood",
+  "title": "Patient Interval",
+  "file": "plate-00061.jpg",
+  "thumb": "plate-00061-t.jpg",
+  "date_long": "October 12, 2026",
+  "date_stamp": "2026-10-12 20:16 UTC"
+ },
+ {
   "run": 60,
   "generation": 420000,
   "regime": "Pulse",
