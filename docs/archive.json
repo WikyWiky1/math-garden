@@ -1,5 +1,18 @@
 [
  {
+  "run": 62,
+  "generation": 434000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Ultramarine",
+  "title": "Folded Choir",
+  "file": "plate-00062.jpg",
+  "thumb": "plate-00062-t.jpg",
+  "date_long": "October 13, 2026",
+  "date_stamp": "2026-10-13 18:16 UTC"
+ },
+ {
   "run": 61,
   "generation": 427000,
   "regime": "Pulse",
