@@ -1,5 +1,18 @@
 [
  {
+  "run": 63,
+  "generation": 441000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Aurum",
+  "title": "Burning Choir",
+  "file": "plate-00063.jpg",
+  "thumb": "plate-00063-t.jpg",
+  "date_long": "October 14, 2026",
+  "date_stamp": "2026-10-14 15:48 UTC"
+ },
+ {
   "run": 62,
   "generation": 434000,
   "regime": "Pulse",
