@@ -1,5 +1,18 @@
 [
  {
+  "run": 64,
+  "generation": 448000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Bone & Ink",
+  "title": "Hollow Lacuna",
+  "file": "plate-00064.jpg",
+  "thumb": "plate-00064-t.jpg",
+  "date_long": "October 15, 2026",
+  "date_stamp": "2026-10-15 15:35 UTC"
+ },
+ {
   "run": 63,
   "generation": 441000,
   "regime": "Pulse",
