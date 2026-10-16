@@ -1,5 +1,18 @@
 [
  {
+  "run": 65,
+  "generation": 455000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Ultraviolet",
+  "title": "Buried Meridian",
+  "file": "plate-00065.jpg",
+  "thumb": "plate-00065-t.jpg",
+  "date_long": "October 16, 2026",
+  "date_stamp": "2026-10-16 15:21 UTC"
+ },
+ {
   "run": 64,
   "generation": 448000,
   "regime": "Labyrinth",
