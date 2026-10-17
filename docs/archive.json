@@ -1,5 +1,18 @@
 [
  {
+  "run": 66,
+  "generation": 462000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Glacier",
+  "title": "Burning Alluvium",
+  "file": "plate-00066.jpg",
+  "thumb": "plate-00066-t.jpg",
+  "date_long": "October 17, 2026",
+  "date_stamp": "2026-10-17 14:11 UTC"
+ },
+ {
   "run": 65,
   "generation": 455000,
   "regime": "Labyrinth",
