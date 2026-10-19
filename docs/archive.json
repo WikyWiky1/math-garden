@@ -1,5 +1,18 @@
 [
  {
+  "run": 68,
+  "generation": 476000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Moss",
+  "title": "Slow Solstice",
+  "file": "plate-00068.jpg",
+  "thumb": "plate-00068-t.jpg",
+  "date_long": "October 19, 2026",
+  "date_stamp": "2026-10-19 17:27 UTC"
+ },
+ {
   "run": 67,
   "generation": 469000,
   "regime": "Labyrinth",
