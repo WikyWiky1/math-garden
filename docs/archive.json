@@ -1,5 +1,18 @@
 [
  {
+  "run": 69,
+  "generation": 483000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Nocturne",
+  "title": "Iron Ember",
+  "file": "plate-00069.jpg",
+  "thumb": "plate-00069-t.jpg",
+  "date_long": "October 20, 2026",
+  "date_stamp": "2026-10-20 15:38 UTC"
+ },
+ {
   "run": 68,
   "generation": 476000,
   "regime": "Perforation",
