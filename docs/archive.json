@@ -1,5 +1,18 @@
 [
  {
+  "run": 70,
+  "generation": 490000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Verdigris",
+  "title": "Restless Solstice",
+  "file": "plate-00070.jpg",
+  "thumb": "plate-00070-t.jpg",
+  "date_long": "October 21, 2026",
+  "date_stamp": "2026-10-21 15:56 UTC"
+ },
+ {
   "run": 69,
   "generation": 483000,
   "regime": "Perforation",
