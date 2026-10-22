@@ -1,5 +1,18 @@
 [
  {
+  "run": 71,
+  "generation": 497000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Oxblood",
+  "title": "First Lacuna",
+  "file": "plate-00071.jpg",
+  "thumb": "plate-00071-t.jpg",
+  "date_long": "October 22, 2026",
+  "date_stamp": "2026-10-22 15:52 UTC"
+ },
+ {
   "run": 70,
   "generation": 490000,
   "regime": "Perforation",
