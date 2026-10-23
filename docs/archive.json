@@ -1,5 +1,18 @@
 [
  {
+  "run": 72,
+  "generation": 504000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Ultramarine",
+  "title": "Slow Lacuna",
+  "file": "plate-00072.jpg",
+  "thumb": "plate-00072-t.jpg",
+  "date_long": "October 23, 2026",
+  "date_stamp": "2026-10-23 15:43 UTC"
+ },
+ {
   "run": 71,
   "generation": 497000,
   "regime": "Perforation",
