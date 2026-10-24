@@ -1,5 +1,18 @@
 [
  {
+  "run": 73,
+  "generation": 511000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Aurum",
+  "title": "Patient Reliquary",
+  "file": "plate-00073.jpg",
+  "thumb": "plate-00073-t.jpg",
+  "date_long": "October 24, 2026",
+  "date_stamp": "2026-10-24 14:29 UTC"
+ },
+ {
   "run": 72,
   "generation": 504000,
   "regime": "Turbulence",
