@@ -1,5 +1,18 @@
 [
  {
+  "run": 74,
+  "generation": 518000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Bone & Ink",
+  "title": "Distant Meridian",
+  "file": "plate-00074.jpg",
+  "thumb": "plate-00074-t.jpg",
+  "date_long": "October 25, 2026",
+  "date_stamp": "2026-10-25 14:56 UTC"
+ },
+ {
   "run": 73,
   "generation": 511000,
   "regime": "Turbulence",
