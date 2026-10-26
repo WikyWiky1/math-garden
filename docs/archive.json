@@ -1,5 +1,18 @@
 [
  {
+  "run": 75,
+  "generation": 525000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Ultraviolet",
+  "title": "Patient Reliquary",
+  "file": "plate-00075.jpg",
+  "thumb": "plate-00075-t.jpg",
+  "date_long": "October 26, 2026",
+  "date_stamp": "2026-10-26 17:20 UTC"
+ },
+ {
   "run": 74,
   "generation": 518000,
   "regime": "Turbulence",
