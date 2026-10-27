@@ -1,5 +1,18 @@
 [
  {
+  "run": 76,
+  "generation": 532000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Glacier",
+  "title": "Waking Alluvium",
+  "file": "plate-00076.jpg",
+  "thumb": "plate-00076-t.jpg",
+  "date_long": "October 27, 2026",
+  "date_stamp": "2026-10-27 16:35 UTC"
+ },
+ {
   "run": 75,
   "generation": 525000,
   "regime": "Turbulence",
