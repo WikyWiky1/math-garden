@@ -1,5 +1,18 @@
 [
  {
+  "run": 77,
+  "generation": 539000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Ember",
+  "title": "Slow Cascade",
+  "file": "plate-00077.jpg",
+  "thumb": "plate-00077-t.jpg",
+  "date_long": "October 28, 2026",
+  "date_stamp": "2026-10-28 17:09 UTC"
+ },
+ {
   "run": 76,
   "generation": 532000,
   "regime": "Fingerprint",
