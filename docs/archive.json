@@ -1,5 +1,18 @@
 [
  {
+  "run": 78,
+  "generation": 546000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Moss",
+  "title": "Distant Solstice",
+  "file": "plate-00078.jpg",
+  "thumb": "plate-00078-t.jpg",
+  "date_long": "October 29, 2026",
+  "date_stamp": "2026-10-29 17:24 UTC"
+ },
+ {
   "run": 77,
   "generation": 539000,
   "regime": "Fingerprint",
