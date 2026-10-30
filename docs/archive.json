@@ -1,5 +1,18 @@
 [
  {
+  "run": 79,
+  "generation": 553000,
+  "regime": "Fingerprint",
+  "feed": 0.03,
+  "kill": 0.056,
+  "palette": "Nocturne",
+  "title": "Quiet Choir",
+  "file": "plate-00079.jpg",
+  "thumb": "plate-00079-t.jpg",
+  "date_long": "October 30, 2026",
+  "date_stamp": "2026-10-30 17:00 UTC"
+ },
+ {
   "run": 78,
   "generation": 546000,
   "regime": "Fingerprint",
