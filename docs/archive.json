@@ -1,5 +1,18 @@
 [
  {
+  "run": 80,
+  "generation": 560000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Verdigris",
+  "title": "Tidal Lacuna",
+  "file": "plate-00080.jpg",
+  "thumb": "plate-00080-t.jpg",
+  "date_long": "October 31, 2026",
+  "date_stamp": "2026-10-31 16:04 UTC"
+ },
+ {
   "run": 79,
   "generation": 553000,
   "regime": "Fingerprint",
