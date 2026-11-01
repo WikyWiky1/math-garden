@@ -1,5 +1,18 @@
 [
  {
+  "run": 81,
+  "generation": 567000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Oxblood",
+  "title": "Buried Cascade",
+  "file": "plate-00081.jpg",
+  "thumb": "plate-00081-t.jpg",
+  "date_long": "November 1, 2026",
+  "date_stamp": "2026-11-01 17:06 UTC"
+ },
+ {
   "run": 80,
   "generation": 560000,
   "regime": "Ripple",
