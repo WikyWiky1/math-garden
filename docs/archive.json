@@ -1,5 +1,18 @@
 [
  {
+  "run": 82,
+  "generation": 574000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Ultramarine",
+  "title": "Slow Meridian",
+  "file": "plate-00082.jpg",
+  "thumb": "plate-00082-t.jpg",
+  "date_long": "November 2, 2026",
+  "date_stamp": "2026-11-02 20:44 UTC"
+ },
+ {
   "run": 81,
   "generation": 567000,
   "regime": "Ripple",
