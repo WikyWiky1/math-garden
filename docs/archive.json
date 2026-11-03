@@ -1,5 +1,18 @@
 [
  {
+  "run": 83,
+  "generation": 581000,
+  "regime": "Ripple",
+  "feed": 0.018,
+  "kill": 0.051,
+  "palette": "Aurum",
+  "title": "Distant Lacuna",
+  "file": "plate-00083.jpg",
+  "thumb": "plate-00083-t.jpg",
+  "date_long": "November 3, 2026",
+  "date_stamp": "2026-11-03 18:24 UTC"
+ },
+ {
   "run": 82,
   "generation": 574000,
   "regime": "Ripple",
