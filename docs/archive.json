@@ -1,5 +1,18 @@
 [
  {
+  "run": 84,
+  "generation": 588000,
+  "regime": "Migration",
+  "feed": 0.014,
+  "kill": 0.045,
+  "palette": "Bone & Ink",
+  "title": "Folded Estuary",
+  "file": "plate-00084.jpg",
+  "thumb": "plate-00084-t.jpg",
+  "date_long": "November 4, 2026",
+  "date_stamp": "2026-11-04 18:37 UTC"
+ },
+ {
   "run": 83,
   "generation": 581000,
   "regime": "Ripple",
