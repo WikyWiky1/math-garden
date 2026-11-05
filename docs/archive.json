@@ -1,5 +1,18 @@
 [
  {
+  "run": 85,
+  "generation": 595000,
+  "regime": "Migration",
+  "feed": 0.014,
+  "kill": 0.045,
+  "palette": "Ultraviolet",
+  "title": "Ancient Foundry",
+  "file": "plate-00085.jpg",
+  "thumb": "plate-00085-t.jpg",
+  "date_long": "November 5, 2026",
+  "date_stamp": "2026-11-05 18:42 UTC"
+ },
+ {
   "run": 84,
   "generation": 588000,
   "regime": "Migration",
