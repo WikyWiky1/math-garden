@@ -1,5 +1,18 @@
 [
  {
+  "run": 86,
+  "generation": 602000,
+  "regime": "Migration",
+  "feed": 0.014,
+  "kill": 0.045,
+  "palette": "Glacier",
+  "title": "Ancient Cascade",
+  "file": "plate-00086.jpg",
+  "thumb": "plate-00086-t.jpg",
+  "date_long": "November 6, 2026",
+  "date_stamp": "2026-11-06 17:56 UTC"
+ },
+ {
   "run": 85,
   "generation": 595000,
   "regime": "Migration",
