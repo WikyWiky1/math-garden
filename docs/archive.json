@@ -1,5 +1,18 @@
 [
  {
+  "run": 87,
+  "generation": 609000,
+  "regime": "Migration",
+  "feed": 0.014,
+  "kill": 0.045,
+  "palette": "Ember",
+  "title": "Tidal Interval",
+  "file": "plate-00087.jpg",
+  "thumb": "plate-00087-t.jpg",
+  "date_long": "November 7, 2026",
+  "date_stamp": "2026-11-07 16:49 UTC"
+ },
+ {
   "run": 86,
   "generation": 602000,
   "regime": "Migration",
