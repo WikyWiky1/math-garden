@@ -1,5 +1,18 @@
 [
  {
+  "run": 88,
+  "generation": 616000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Moss",
+  "title": "Quiet Estuary",
+  "file": "plate-00088.jpg",
+  "thumb": "plate-00088-t.jpg",
+  "date_long": "November 8, 2026",
+  "date_stamp": "2026-11-08 17:01 UTC"
+ },
+ {
   "run": 87,
   "generation": 609000,
   "regime": "Migration",
