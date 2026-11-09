@@ -1,5 +1,18 @@
 [
  {
+  "run": 89,
+  "generation": 623000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Nocturne",
+  "title": "Hollow Ember",
+  "file": "plate-00089.jpg",
+  "thumb": "plate-00089-t.jpg",
+  "date_long": "November 9, 2026",
+  "date_stamp": "2026-11-09 21:25 UTC"
+ },
+ {
   "run": 88,
   "generation": 616000,
   "regime": "Vesicle",
