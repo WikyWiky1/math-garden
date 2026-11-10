@@ -1,5 +1,18 @@
 [
  {
+  "run": 90,
+  "generation": 630000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Verdigris",
+  "title": "Late Choir",
+  "file": "plate-00090.jpg",
+  "thumb": "plate-00090-t.jpg",
+  "date_long": "November 10, 2026",
+  "date_stamp": "2026-11-10 18:39 UTC"
+ },
+ {
   "run": 89,
   "generation": 623000,
   "regime": "Vesicle",
