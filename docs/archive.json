@@ -1,5 +1,18 @@
 [
  {
+  "run": 91,
+  "generation": 637000,
+  "regime": "Vesicle",
+  "feed": 0.03,
+  "kill": 0.062,
+  "palette": "Oxblood",
+  "title": "Distant Choir",
+  "file": "plate-00091.jpg",
+  "thumb": "plate-00091-t.jpg",
+  "date_long": "November 11, 2026",
+  "date_stamp": "2026-11-11 18:40 UTC"
+ },
+ {
   "run": 90,
   "generation": 630000,
   "regime": "Vesicle",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00002-t.jpg",
   "date_long": "August 17, 2026",
   "date_stamp": "2026-08-17 03:02 UTC"
- },
- {
-  "run": 1,
-  "generation": 7000,
-  "regime": "Labyrinth",
-  "feed": 0.029,
-  "kill": 0.057,
-  "palette": "Oxblood",
-  "title": "Unfinished Vesper",
-  "file": "plate-00001.jpg",
-  "thumb": "plate-00001-t.jpg",
-  "date_long": "August 17, 2026",
-  "date_stamp": "2026-08-17 02:57 UTC"
  }
 ]
