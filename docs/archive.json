@@ -1,5 +1,18 @@
 [
  {
+  "run": 92,
+  "generation": 644000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Ultramarine",
+  "title": "Quiet Estuary",
+  "file": "plate-00092.jpg",
+  "thumb": "plate-00092-t.jpg",
+  "date_long": "November 12, 2026",
+  "date_stamp": "2026-11-12 18:53 UTC"
+ },
+ {
   "run": 91,
   "generation": 637000,
   "regime": "Vesicle",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00003-t.jpg",
   "date_long": "August 17, 2026",
   "date_stamp": "2026-08-17 03:03 UTC"
- },
- {
-  "run": 2,
-  "generation": 14000,
-  "regime": "Labyrinth",
-  "feed": 0.029,
-  "kill": 0.057,
-  "palette": "Ultramarine",
-  "title": "Restless Alluvium",
-  "file": "plate-00002.jpg",
-  "thumb": "plate-00002-t.jpg",
-  "date_long": "August 17, 2026",
-  "date_stamp": "2026-08-17 03:02 UTC"
  }
 ]
