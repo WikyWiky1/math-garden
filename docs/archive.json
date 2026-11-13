@@ -1,5 +1,18 @@
 [
  {
+  "run": 93,
+  "generation": 651000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Aurum",
+  "title": "Waking Foundry",
+  "file": "plate-00093.jpg",
+  "thumb": "plate-00093-t.jpg",
+  "date_long": "November 13, 2026",
+  "date_stamp": "2026-11-13 18:29 UTC"
+ },
+ {
   "run": 92,
   "generation": 644000,
   "regime": "Pulse",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00004-t.jpg",
   "date_long": "August 17, 2026",
   "date_stamp": "2026-08-17 03:04 UTC"
- },
- {
-  "run": 3,
-  "generation": 21000,
-  "regime": "Labyrinth",
-  "feed": 0.029,
-  "kill": 0.057,
-  "palette": "Aurum",
-  "title": "Quiet Garden",
-  "file": "plate-00003.jpg",
-  "thumb": "plate-00003-t.jpg",
-  "date_long": "August 17, 2026",
-  "date_stamp": "2026-08-17 03:03 UTC"
  }
 ]
