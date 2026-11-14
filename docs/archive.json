@@ -1,5 +1,18 @@
 [
  {
+  "run": 94,
+  "generation": 658000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Bone & Ink",
+  "title": "Glass Aperture",
+  "file": "plate-00094.jpg",
+  "thumb": "plate-00094-t.jpg",
+  "date_long": "November 14, 2026",
+  "date_stamp": "2026-11-14 17:02 UTC"
+ },
+ {
   "run": 93,
   "generation": 651000,
   "regime": "Pulse",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00005-t.jpg",
   "date_long": "August 17, 2026",
   "date_stamp": "2026-08-17 03:06 UTC"
- },
- {
-  "run": 4,
-  "generation": 28000,
-  "regime": "Perforation",
-  "feed": 0.039,
-  "kill": 0.058,
-  "palette": "Bone & Ink",
-  "title": "Buried Reliquary",
-  "file": "plate-00004.jpg",
-  "thumb": "plate-00004-t.jpg",
-  "date_long": "August 17, 2026",
-  "date_stamp": "2026-08-17 03:04 UTC"
  }
 ]
