@@ -1,5 +1,18 @@
 [
  {
+  "run": 95,
+  "generation": 665000,
+  "regime": "Pulse",
+  "feed": 0.025,
+  "kill": 0.06,
+  "palette": "Ultraviolet",
+  "title": "Iron Estuary",
+  "file": "plate-00095.jpg",
+  "thumb": "plate-00095-t.jpg",
+  "date_long": "November 15, 2026",
+  "date_stamp": "2026-11-15 17:41 UTC"
+ },
+ {
   "run": 94,
   "generation": 658000,
   "regime": "Pulse",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00006-t.jpg",
   "date_long": "August 17, 2026",
   "date_stamp": "2026-08-17 11:38 UTC"
- },
- {
-  "run": 5,
-  "generation": 35000,
-  "regime": "Perforation",
-  "feed": 0.039,
-  "kill": 0.058,
-  "palette": "Ultraviolet",
-  "title": "Folded Threshold",
-  "file": "plate-00005.jpg",
-  "thumb": "plate-00005-t.jpg",
-  "date_long": "August 17, 2026",
-  "date_stamp": "2026-08-17 03:06 UTC"
  }
 ]
