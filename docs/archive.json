@@ -1,5 +1,18 @@
 [
  {
+  "run": 96,
+  "generation": 672000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Glacier",
+  "title": "Glass Meridian",
+  "file": "plate-00096.jpg",
+  "thumb": "plate-00096-t.jpg",
+  "date_long": "November 16, 2026",
+  "date_stamp": "2026-11-16 20:59 UTC"
+ },
+ {
   "run": 95,
   "generation": 665000,
   "regime": "Pulse",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00007-t.jpg",
   "date_long": "August 18, 2026",
   "date_stamp": "2026-08-18 11:38 UTC"
- },
- {
-  "run": 6,
-  "generation": 42000,
-  "regime": "Perforation",
-  "feed": 0.039,
-  "kill": 0.058,
-  "palette": "Glacier",
-  "title": "Ancient Alluvium",
-  "file": "plate-00006.jpg",
-  "thumb": "plate-00006-t.jpg",
-  "date_long": "August 17, 2026",
-  "date_stamp": "2026-08-17 11:38 UTC"
  }
 ]
