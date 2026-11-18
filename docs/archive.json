@@ -1,5 +1,18 @@
 [
  {
+  "run": 98,
+  "generation": 686000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Moss",
+  "title": "Distant Foundry",
+  "file": "plate-00098.jpg",
+  "thumb": "plate-00098-t.jpg",
+  "date_long": "November 18, 2026",
+  "date_stamp": "2026-11-18 19:23 UTC"
+ },
+ {
   "run": 97,
   "generation": 679000,
   "regime": "Labyrinth",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00009-t.jpg",
   "date_long": "August 20, 2026",
   "date_stamp": "2026-08-20 11:40 UTC"
- },
- {
-  "run": 8,
-  "generation": 56000,
-  "regime": "Turbulence",
-  "feed": 0.026,
-  "kill": 0.051,
-  "palette": "Moss",
-  "title": "Sacred Lacuna",
-  "file": "plate-00008.jpg",
-  "thumb": "plate-00008-t.jpg",
-  "date_long": "August 19, 2026",
-  "date_stamp": "2026-08-19 11:37 UTC"
  }
 ]
