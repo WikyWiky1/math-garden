@@ -1,5 +1,18 @@
 [
  {
+  "run": 99,
+  "generation": 693000,
+  "regime": "Labyrinth",
+  "feed": 0.029,
+  "kill": 0.057,
+  "palette": "Nocturne",
+  "title": "Distant Meridian",
+  "file": "plate-00099.jpg",
+  "thumb": "plate-00099-t.jpg",
+  "date_long": "November 19, 2026",
+  "date_stamp": "2026-11-19 19:28 UTC"
+ },
+ {
   "run": 98,
   "generation": 686000,
   "regime": "Labyrinth",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00010-t.jpg",
   "date_long": "August 21, 2026",
   "date_stamp": "2026-08-21 11:39 UTC"
- },
- {
-  "run": 9,
-  "generation": 63000,
-  "regime": "Turbulence",
-  "feed": 0.026,
-  "kill": 0.051,
-  "palette": "Nocturne",
-  "title": "Slow Choir",
-  "file": "plate-00009.jpg",
-  "thumb": "plate-00009-t.jpg",
-  "date_long": "August 20, 2026",
-  "date_stamp": "2026-08-20 11:40 UTC"
  }
 ]
