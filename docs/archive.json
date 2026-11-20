@@ -1,5 +1,18 @@
 [
  {
+  "run": 100,
+  "generation": 700000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Verdigris",
+  "title": "Buried Bloom",
+  "file": "plate-00100.jpg",
+  "thumb": "plate-00100-t.jpg",
+  "date_long": "November 20, 2026",
+  "date_stamp": "2026-11-20 19:05 UTC"
+ },
+ {
   "run": 99,
   "generation": 693000,
   "regime": "Labyrinth",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00011-t.jpg",
   "date_long": "August 22, 2026",
   "date_stamp": "2026-08-22 11:34 UTC"
- },
- {
-  "run": 10,
-  "generation": 70000,
-  "regime": "Turbulence",
-  "feed": 0.026,
-  "kill": 0.051,
-  "palette": "Verdigris",
-  "title": "Burning Aperture",
-  "file": "plate-00010.jpg",
-  "thumb": "plate-00010-t.jpg",
-  "date_long": "August 21, 2026",
-  "date_stamp": "2026-08-21 11:39 UTC"
  }
 ]
