@@ -1,5 +1,18 @@
 [
  {
+  "run": 101,
+  "generation": 707000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Oxblood",
+  "title": "Drowned Estuary",
+  "file": "plate-00101.jpg",
+  "thumb": "plate-00101-t.jpg",
+  "date_long": "November 21, 2026",
+  "date_stamp": "2026-11-21 17:57 UTC"
+ },
+ {
   "run": 100,
   "generation": 700000,
   "regime": "Perforation",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00012-t.jpg",
   "date_long": "August 23, 2026",
   "date_stamp": "2026-08-23 11:33 UTC"
- },
- {
-  "run": 11,
-  "generation": 77000,
-  "regime": "Turbulence",
-  "feed": 0.026,
-  "kill": 0.051,
-  "palette": "Oxblood",
-  "title": "Glass Ember",
-  "file": "plate-00011.jpg",
-  "thumb": "plate-00011-t.jpg",
-  "date_long": "August 22, 2026",
-  "date_stamp": "2026-08-22 11:34 UTC"
  }
 ]
