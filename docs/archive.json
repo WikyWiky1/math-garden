@@ -1,5 +1,18 @@
 [
  {
+  "run": 102,
+  "generation": 714000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Ultramarine",
+  "title": "Quiet Garden",
+  "file": "plate-00102.jpg",
+  "thumb": "plate-00102-t.jpg",
+  "date_long": "November 22, 2026",
+  "date_stamp": "2026-11-22 18:29 UTC"
+ },
+ {
   "run": 101,
   "generation": 707000,
   "regime": "Perforation",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00013-t.jpg",
   "date_long": "August 24, 2026",
   "date_stamp": "2026-08-24 11:42 UTC"
- },
- {
-  "run": 12,
-  "generation": 84000,
-  "regime": "Fingerprint",
-  "feed": 0.03,
-  "kill": 0.056,
-  "palette": "Ultramarine",
-  "title": "Folded Ember",
-  "file": "plate-00012.jpg",
-  "thumb": "plate-00012-t.jpg",
-  "date_long": "August 23, 2026",
-  "date_stamp": "2026-08-23 11:33 UTC"
  }
 ]
