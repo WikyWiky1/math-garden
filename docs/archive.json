@@ -1,5 +1,18 @@
 [
  {
+  "run": 103,
+  "generation": 721000,
+  "regime": "Perforation",
+  "feed": 0.039,
+  "kill": 0.058,
+  "palette": "Aurum",
+  "title": "Patient Meridian",
+  "file": "plate-00103.jpg",
+  "thumb": "plate-00103-t.jpg",
+  "date_long": "November 23, 2026",
+  "date_stamp": "2026-11-23 22:37 UTC"
+ },
+ {
   "run": 102,
   "generation": 714000,
   "regime": "Perforation",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00014-t.jpg",
   "date_long": "August 25, 2026",
   "date_stamp": "2026-08-25 11:41 UTC"
- },
- {
-  "run": 13,
-  "generation": 91000,
-  "regime": "Fingerprint",
-  "feed": 0.03,
-  "kill": 0.056,
-  "palette": "Aurum",
-  "title": "Buried Choir",
-  "file": "plate-00013.jpg",
-  "thumb": "plate-00013-t.jpg",
-  "date_long": "August 24, 2026",
-  "date_stamp": "2026-08-24 11:42 UTC"
  }
 ]
