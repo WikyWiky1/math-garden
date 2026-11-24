@@ -1,5 +1,18 @@
 [
  {
+  "run": 104,
+  "generation": 728000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Bone & Ink",
+  "title": "Distant Vesper",
+  "file": "plate-00104.jpg",
+  "thumb": "plate-00104-t.jpg",
+  "date_long": "November 24, 2026",
+  "date_stamp": "2026-11-24 21:09 UTC"
+ },
+ {
   "run": 103,
   "generation": 721000,
   "regime": "Perforation",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00015-t.jpg",
   "date_long": "August 26, 2026",
   "date_stamp": "2026-08-26 11:43 UTC"
- },
- {
-  "run": 14,
-  "generation": 98000,
-  "regime": "Fingerprint",
-  "feed": 0.03,
-  "kill": 0.056,
-  "palette": "Bone & Ink",
-  "title": "Sacred Estuary",
-  "file": "plate-00014.jpg",
-  "thumb": "plate-00014-t.jpg",
-  "date_long": "August 25, 2026",
-  "date_stamp": "2026-08-25 11:41 UTC"
  }
 ]
