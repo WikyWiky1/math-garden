@@ -1,5 +1,18 @@
 [
  {
+  "run": 105,
+  "generation": 735000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Ultraviolet",
+  "title": "Drowned Lacuna",
+  "file": "plate-00105.jpg",
+  "thumb": "plate-00105-t.jpg",
+  "date_long": "November 25, 2026",
+  "date_stamp": "2026-11-25 20:27 UTC"
+ },
+ {
   "run": 104,
   "generation": 728000,
   "regime": "Turbulence",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00016-t.jpg",
   "date_long": "August 27, 2026",
   "date_stamp": "2026-08-27 21:01 UTC"
- },
- {
-  "run": 15,
-  "generation": 105000,
-  "regime": "Fingerprint",
-  "feed": 0.03,
-  "kill": 0.056,
-  "palette": "Ultraviolet",
-  "title": "Iron Meridian",
-  "file": "plate-00015.jpg",
-  "thumb": "plate-00015-t.jpg",
-  "date_long": "August 26, 2026",
-  "date_stamp": "2026-08-26 11:43 UTC"
  }
 ]
