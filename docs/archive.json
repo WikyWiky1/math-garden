@@ -1,5 +1,18 @@
 [
  {
+  "run": 107,
+  "generation": 749000,
+  "regime": "Turbulence",
+  "feed": 0.026,
+  "kill": 0.051,
+  "palette": "Ember",
+  "title": "Late Garden",
+  "file": "plate-00107.jpg",
+  "thumb": "plate-00107-t.jpg",
+  "date_long": "November 27, 2026",
+  "date_stamp": "2026-11-27 19:55 UTC"
+ },
+ {
   "run": 106,
   "generation": 742000,
   "regime": "Turbulence",
@@ -1155,18 +1168,5 @@
   "thumb": "plate-00018-t.jpg",
   "date_long": "August 29, 2026",
   "date_stamp": "2026-08-29 15:37 UTC"
- },
- {
-  "run": 17,
-  "generation": 119000,
-  "regime": "Ripple",
-  "feed": 0.018,
-  "kill": 0.051,
-  "palette": "Ember",
-  "title": "Burning Alluvium",
-  "file": "plate-00017.jpg",
-  "thumb": "plate-00017-t.jpg",
-  "date_long": "August 28, 2026",
-  "date_stamp": "2026-08-28 21:21 UTC"
  }
 ]
